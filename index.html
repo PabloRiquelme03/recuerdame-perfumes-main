@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recuérdame</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="/img/logo.png" type="image/x-icon">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <header class="modern-header">
+        <div class="logo-container">
+            <img class="logo-img" src="/img/logo.png" alt="Logo" onclick="location.href='/index.html'">
+            <h1>Perfumería Recuérdame</h1>
+        </div>
+        <button id="abrir" class="abrir-menu"><i class="fas fa-bars"></i></button>
+        <nav class="nav" id="nav">
+            <button class="cerrar-menu" id="cerrar"><i class="fas fa-times"></i></button>
+            <ul class="nav-list">
+                <li><a href="/catalogos/hombre.html">Masculino</a></li>
+                <li><a href="/catalogos/mujer.html">Femenino</a></li>
+                <li><a href="/catalogos/nicho.html">Nicho</a></li>
+                <li><a href="/precios/precios.html">Precios</a></li>
+                <li><a href="/promociones/promociones.html">Novedades</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="carousel">
+                <div class="carousel-slide active" style="background-image: url('/img/img1.jpeg');"></div>
+                <div class="carousel-slide" style="background-image: url('/img/img2.jpeg');"></div>
+                <div class="carousel-slide" style="background-image: url('/img/img3.jpeg');"></div>
+                <div class="carousel-slide" style="background-image: url('/img/img4.jpeg');"></div>
+                <div class="carousel-slide" style="background-image: url('/img/img5.jpeg');"></div>
+                <div class="carousel-slide" style="background-image: url('/img/img6.jpeg');"></div>
+            </div>
+
+            <div class="overlay"></div>
+
+            <div class="hero-content">
+                <h1>Descubre tu fragancia ideal</h1>
+                <p>Explora nuestro universo olfativo y encuentra tu esencia perfecta</p>
+                <div class="catalog-cards">
+                <a href="../catalogos/hombre.html" class="catalog-card" style="background-image: url('/img/hombre.jpg');">
+                    <div class="catalog-overlay"></div>
+                    <span>Hombre</span>
+                </a>
+                <a href="../catalogos/mujer.html" class="catalog-card" style="background-image: url('/img/mujer.jpg');">
+                    <div class="catalog-overlay"></div>
+                    <span>Mujer</span>
+                </a>
+                <a href="../catalogos/nicho.html" class="catalog-card" style="background-image: url('/img/nicho.jpg');">
+                    <div class="catalog-overlay"></div>
+                    <span>Nicho</span>
+                </a>
+                </div>
+            </div>
+        </section>
+
+
+    </main>
+
+
+    <section id="top-sellers" class="top-sellers">
+    <h2>Top Ventas</h2>
+    <div class="contenedor-top-sellers">
+        <div class="perfume-card">
+            <h3>Scandal Absolu</h3>
+            <p class="marca">Jean Paul Gaultier</p>
+            <p class="catalogo-numero">Hombre N°81</p>
+            <a href="../catalogos/hombre.html" class="ver-catalogo-btn">Ver en catálogo</a>
+        </div>
+        <div class="perfume-card">
+            <h3>Good Girl</h3>
+            <p class="marca">Carolina Herrera</p>
+            <p class="catalogo-numero">Mujer N°61</p>
+            <a href="../catalogos/mujer.html" class="ver-catalogo-btn">Ver en catálogo</a>
+        </div>
+        <div class="perfume-card">
+            <h3>Y. B. Marshmallow</h3>
+            <p class="marca">Kayali</p>
+            <p class="catalogo-numero">Nicho N°135</p>
+            <a href="../catalogos/nicho.html" class="ver-catalogo-btn">Ver en catálogo</a>
+        </div>
+        <div class="perfume-card">
+            <h3>Althair</h3>
+            <p class="marca">Parfums de Marly</p>
+            <p class="catalogo-numero">Nicho N°48</p>
+            <a href="../catalogos/nicho.html" class="ver-catalogo-btn">Ver en catálogo</a>
+        </div>
+    </div>
+</section>
+
+
+    <section class="about-map-section">
+        <div class="content-wrapper">
+            <div class="about-us">
+                <h2>Sobre Nosotros</h2>
+                <p>En <b>Recuérdame</b>, transformamos cada fragancia en una experiencia única que despierta recuerdos inolvidables. Como perfumería local de tradición familiar, llevamos más de 10 años creando aromas de inspiración premium, combinando calidad y accesibilidad para adaptarnos a cada estilo y personalidad. Nuestro compromiso es ofrecer perfumes excepcionales que conviertan momentos cotidianos en memorables, reflejando nuestra pasión por la excelencia a precios alcanzables. Más que una perfumería, somos parte de tu historia, valorando cada cliente, sonrisa y recuerdo como parte de nuestra comunidad. Innovamos constantemente mientras mantenemos la cercanía y confianza que nos define.</p>
+            </div>
+            <div class="map">
+                <h2>Ubicación</h2>
+                <iframe 
+                    loading="lazy" 
+                    allowfullscreen 
+                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=persa%20victor%20manuel%2C%20local%20184%2C%20sector%204&zoom=16&maptype=roadmap">
+                </iframe>
+            </div>
+            
+        </div>
+    </section>
+
+    <section id="testimonios" class="testimonios">
+        <h2>Testimonios</h2>
+        <div class="contenedor-testimonios">
+            <div class="testimonio">
+                <p>"El domingo fui a su tienda en persa y debo decir que la atención de sus trabajadores es super buena, felicidades 🎉❤️"</p>
+                <h4>@alexcompletoitalianoconmayo</h4>
+            </div>
+            <div class="testimonio">
+                <p>"Como siempre, excelente atención y excelente los productos mis felicitaciones 👏👏👏👏👏"</p>
+                <h4>@rolyrmorales</h4>
+            </div>
+            <div class="testimonio">
+                <p>"Ayer les compré Milk, de Commodity y aunque no había extracto, me llevé concentración normal y WOW, lo aplique anoche y hasta ahora me dura el aroma en piel y ropa y que decir de la similitud, sin duda volveré por más"</p>
+                <h4>@_yourgirlpilita_</h4>
+            </div>
+        </div>
+    </section>
+
+
+    <footer class="modern-footer">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>Contacto</h4>
+                <p><i class="fas fa-phone-alt"></i> +56 9 6547 2295</p>
+                <p><i class="fas fa-envelope"></i> perfumesrecuerdame@gmail.com</p>
+                <p><i class="fas fa-map-marker-alt"></i> Persa Víctor Manuel: Galería La Curtiembre</p>
+            </div>
+            <div class="footer-section">
+                <h4>Síguenos</h4>
+                <div class="social-links">
+                    <a href="https://www.instagram.com/perfumeriarecuerdame/" target="_blank" aria-label="Instagram">
+                        <i class="fab fa-instagram"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Perfumería Recuérdame. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="/script.js"></script>
+</body>
+
+</html>
