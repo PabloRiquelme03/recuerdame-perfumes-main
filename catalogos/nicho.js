@@ -96,7 +96,7 @@ const perfumes = [
     new Perfume(81, "Babycat", "Yves Saint Laurent", "Unisex", "Avainillado", "Fresco especiado", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Babycat-73149.html"),
     new Perfume(82, "Tobacco Mandarin", "Byredo", "Unisex", "Fresco especiado", "Tabaco", "https://www.fragrantica.es/perfume/Byredo/Tobacco-Mandarin-63031.html"),
     new Perfume(83, "Kalan", "Parfums de Marly", "Unisex", "Calido especiado", "Aromático", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Kalan-56036.html"),
-    new Perfume(84, "Blue Talisman", "Ex Nihilo", "Unisex", "Citrico", "Frutal", "https://www.fragrantica.es/perfume/Ex-Nihilo/Blue-Talisman-84224.html", "sold"),
+    new Perfume(84, "Blue Talisman", "Ex Nihilo", "Unisex", "Citrico", "Frutal", "https://www.fragrantica.es/perfume/Ex-Nihilo/Blue-Talisman-84224.html"),
     new Perfume(85, "Delina Exclusif", "Parfums de Marly", "Mujer", "Floral", "Frutal", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Delina-Exclusif-50370.html"),
     new Perfume(86, "Milk", "Commodity", "Unisex", "Dulce", "Amaderado", "https://www.fragrantica.es/perfume/Commodity/Milk-69191.html"),
     new Perfume(87, "Fico Di Amalfi", "Acqua Di Parma", "Unisex", "Citrico", "Amaderado", "https://www.fragrantica.es/perfume/Acqua-di-Parma/Acqua-di-Parma-Blu-Mediterraneo-Fico-di-Amalfi-1687.html"),
@@ -176,6 +176,7 @@ const perfumes = [
     new Perfume(161, "The Blazing Mr. Sam", "Penhaligon’s", "Hombre", "Tabaco", "Calido especiado", "https://www.fragrantica.es/perfume/Penhaligon-s/The-Blazing-Mr-Sam-50255.html"),
     new Perfume(162, "Lamar", "Kajal", "Unisex", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Kajal/Lamar-62571.html"),
     new Perfume(163, "Tuxedo", "Yves Saint Laurent", "Unisex", "Calido especiado", "Avainillado", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Tuxedo-32269.html"),
+    new Perfume(164, "Grey Vetiver", "Tom Ford", "Hombre", "Amaderado", "Aromático", "https://www.fragrantica.es/perfume/Tom-Ford/Grey-Vetiver-6697.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {

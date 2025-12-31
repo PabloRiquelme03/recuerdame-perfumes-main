@@ -92,7 +92,7 @@ const perfumes =[
     new Perfume(75, "Obsession", "Calvin Klein", "Ambarado", "Cálido especiado", "https://www.fragrantica.es/perfume/Calvin-Klein/Obsession-248.html"),
     new Perfume(76, "L12 12 Blanc", "Lacoste", "Aromatico", "Citrico", "https://www.fragrantica.es/perfume/Lacoste-Fragrances/Eau-de-Lacoste-L-12-12-White-11043.html"),
     new Perfume(77, "212 VIP Black", "Carolina Herrera", "Aromatico", "Amaderado", "https://www.fragrantica.es/perfume/Carolina-Herrera/212-VIP-Black-46093.html"),
-    new Perfume(78, "Terre D’Hermes", "Hermès", "Citrico", "Amaderado", "https://www.fragrantica.es/perfume/Hermes/Terre-d-Hermes-17.html", "sold"),
+    new Perfume(78, "Terre D’Hermes", "Hermès", "Citrico", "Amaderado", "https://www.fragrantica.es/perfume/Hermes/Terre-d-Hermes-17.html"),
     new Perfume(79, "Oscar de la Renta", "Oscar de la Renta", "Aromatico", "Amaderado", "https://www.fragrantica.es/perfume/Oscar-de-la-Renta/Oscar-de-la-Renta-Pour-Lui-4542.html"),
     new Perfume(80, "Luna Rossa Ocean", "Prada", "Fresco especiado", "Ambarado", "https://www.fragrantica.es/perfume/Prada/Luna-Rossa-Ocean-68753.html"),
     new Perfume(81, "Scandal Absolu", "Jean Paul Gaultier", "Amaderado", "Dulce", "https://www.fragrantica.es/perfume/Jean-Paul-Gaultier/Scandal-Pour-Homme-Absolu-91053.html"),
@@ -201,7 +201,7 @@ const perfumes =[
     new Perfume(184, "Versace Oud Noir", "Versace", "Amaderado", "Cálido especiado", "https://www.fragrantica.es/perfume/Versace/Versace-Pour-Homme-Oud-Noir-17338.html"),
     new Perfume(185, "Bleu de Chanel L'Exclusif", "Chanel", "Amaderado", "Amaderado", "https://www.fragrantica.es/perfume/Chanel/Bleu-de-Chanel-L-Exclusif-113429.html"),
     new Perfume(186, "Y elixir", "Yves Saint Laurent", "Aromatico", "Fresco especiado", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Y-Elixir-90024.html"),
-    new Perfume(187, "Terre d’Hermès EDP Intense", "Hermès", "Fresco especiado", "Calido especiado", "https://www.fragrantica.es/perfume/Hermes/Terre-d-Hermes-Intense-102772.html"),
+    new Perfume(187, "Terre D’Hermes EDP Intense", "Hermès", "Fresco especiado", "Calido especiado", "https://www.fragrantica.es/perfume/Hermes/Terre-d-Hermes-Intense-102772.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
