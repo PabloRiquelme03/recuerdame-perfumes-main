@@ -37,7 +37,7 @@ const perfumes =[
     new Perfume(20, "Le Male", "Jean Paul Gaultier", "Aromatico", "Avainillado", "https://www.fragrantica.es/perfume/Jean-Paul-Gaultier/Le-Male-430.html"),
     new Perfume(21, "Tommy", "Tommy Hilfiger", "Fresco especiado", "Verde", "https://www.fragrantica.es/perfume/Tommy-Hilfiger/Tommy-6314.html"),
     new Perfume(22, "Pour Homme", "Kenzo", "Marino", "Aromatico", "https://www.fragrantica.es/perfume/Kenzo/Kenzo-pour-Homme-77.html"),
-    new Perfume(23, "Stronger With You Oud", "Giorgio Armani", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Oud-76171.html", "sold"),
+    new Perfume(23, "Uomo Born In Roma Extradose", "Valentino", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Valentino/Born-in-Roma-Extradose-Uomo-101383.html"),
     new Perfume(24, "Stronger With You", "Giorgio Armani", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-45258.html"),
     new Perfume(25, "Agua Brava", "Antonio Puig", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Antonio-Puig/Agua-Brava-12673.html"),
     new Perfume(26, "Opium", "Yves Saint Laurent", "Fresco especiado", "Frutal", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Opium-Pour-Homme-562.html"),
