@@ -205,6 +205,9 @@ const perfumes =[
     new Perfume(188, "Devotion Pour Homme", "Dolce & Gabbana", "Calido especiado", "Citrico", "https://www.fragrantica.es/perfume/Dolce-Gabbana/Devotion-Pour-Homme-101353.html"),
     new Perfume(189, "Boss Bottled Absolu", "Hugo Boss", "Ambarado", "Amaderado", "https://www.fragrantica.es/perfume/Hugo-Boss/Bottled-Absolu-96246.html"),
     new Perfume(190, "Boss Bottled Bold Citrus", "Hugo Boss", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Hugo-Boss/Boss-Bottled-Bold-Citrus-103605.html"),
+    new Perfume(191, "Invictus Victory Absolu", "Rabanne", "Ambarado", "Amaderado", "https://www.fragrantica.es/perfume/Rabanne/Invictus-Victory-Absolu-103462.html"),
+    new Perfume(192, "Eros Najim", "Versace", "Calido especiado", "Citrico", "https://www.fragrantica.es/perfume/Versace/Eros-Najim-99116.html"),
+    new Perfume(193, "Eros Eau De Parfum", "Versace", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Versace/Eros-Eau-de-Parfum-62762.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {

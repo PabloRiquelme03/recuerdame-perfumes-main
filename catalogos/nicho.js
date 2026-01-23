@@ -177,6 +177,11 @@ const perfumes = [
     new Perfume(162, "Lamar", "Kajal", "Unisex", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Kajal/Lamar-62571.html"),
     new Perfume(163, "Tuxedo", "Yves Saint Laurent", "Unisex", "Calido especiado", "Avainillado", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Tuxedo-32269.html"),
     new Perfume(164, "Grey Vetiver", "Tom Ford", "Hombre", "Amaderado", "Aromático", "https://www.fragrantica.es/perfume/Tom-Ford/Grey-Vetiver-6697.html"),
+    new Perfume(165, "Maui In a Bottle Sweet Banana", "Kayali", "Mujer", "Dulce", "Avainillado", "https://www.fragrantica.com/perfume/Kayali-Fragrances/Maui-in-a-Bottle-Sweet-Banana-37-Eau-de-Parfum-94205.html"),
+    new Perfume(166, "Capri in a Bottle Lemon Sugar", "Kayali", "Mujer", "Dulce", "Avainillado", "https://www.fragrantica.com/perfume/Kayali-Fragrances/Capri-in-a-Bottle-Lemon-Sugar-14-Eau-de-Parfum-94204.html"),
+    new Perfume(167, "Mojave Ghost", "Byredo", "Unisex", "Floral", "Amaderado", "https://www.fragrantica.es/perfume/Byredo/Mojave-Ghost-27040.html"),
+    new Perfume(168, "Moonlight in Heaven", "Kilian", "Unisex", "Citrico", "Dulce", "https://www.fragrantica.es/perfume/By-Kilian/Moonlight-in-Heaven-35973.html"),
+    new Perfume(169, "Paradoxe Intense", "Prada", "Mujer", "Floral", "Avainillado", "https://www.fragrantica.es/perfume/Prada/Prada-Paradoxe-Intense-83988.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
