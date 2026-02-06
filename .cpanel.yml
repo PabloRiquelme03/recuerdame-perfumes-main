@@ -1,5 +1,10 @@
-.---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/perfumer/public_html
-    - /bin/cp -R * $DEPLOYPATH
+    - export DEPLOYPATH=/home/perfumer/public_html/
+    - /bin/cp -R catalogos $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R precios $DEPLOYPATH
+    - /bin/cp -R promociones $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp *.css $DEPLOYPATH
+    - /bin/cp *.js $DEPLOYPATH
