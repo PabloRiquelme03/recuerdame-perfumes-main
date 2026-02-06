@@ -182,6 +182,9 @@ const perfumes = [
     new Perfume(167, "Mojave Ghost", "Byredo", "Unisex", "Floral", "Amaderado", "https://www.fragrantica.es/perfume/Byredo/Mojave-Ghost-27040.html"),
     new Perfume(168, "Moonlight in Heaven", "Kilian", "Unisex", "Citrico", "Dulce", "https://www.fragrantica.es/perfume/By-Kilian/Moonlight-in-Heaven-35973.html"),
     new Perfume(169, "Paradoxe Intense", "Prada", "Mujer", "Floral", "Avainillado", "https://www.fragrantica.es/perfume/Prada/Prada-Paradoxe-Intense-83988.html"),
+    new Perfume(170, "Accento", "Xerjoff", "Unisex", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/Xerjoff/Accento-55156.html"),
+    new Perfume(171, "Nolita", "Bond No. 9", "Mujer", "Floral", "Citrico", "https://www.fragrantica.es/perfume/Bond-No-9/Nolita-43635.html"),
+    new Perfume(172, "Maldives in a Bottle Ylang Coco", "Kayali", "Mujer", "Dulce", "Aromatico", "https://www.fragrantica.com/perfume/Kayali-Fragrances/Maldives-in-a-Bottle-Ylang-Coco-20-Eau-de-Parfum-94206.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
