@@ -146,9 +146,9 @@ const perfumes =[
     new Perfume(129, "L'Homme Idéal EDP", "Guerlain", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Guerlain/L-Homme-Ideal-Eau-de-Parfum-37735.html"),
     new Perfume(130, "Acqua Di Gio Parfum", "Giorgio Armani", "Marino", "Aromatico", "https://www.fragrantica.es/perfume/Giorgio-Armani/Acqua-di-Gio-Parfum-81508.html"),
     new Perfume(131, "Phantom Parfum", "Rabanne", "Aromatico", "Avainillado", "https://www.fragrantica.es/perfume/Rabanne/Phantom-Parfum-81927.html"),
-    new Perfume(132, "Luna Rossa Carbon", "Prada", "Fresco especiado", "Ambarado", "https://www.fragrantica.es/perfume/Prada/Luna-Rossa-Carbon-43402.html", "sold"),
+    new Perfume(132, "Luna Rossa Carbon", "Prada", "Fresco especiado", "Ambarado", "https://www.fragrantica.es/perfume/Prada/Luna-Rossa-Carbon-43402.html"),
     new Perfume(133, "Selection", "Hugo Boss", "Citrico", "Fresco especiado", "https://www.fragrantica.es/perfume/Hugo-Boss/Boss-Selection-387.html"),
-    new Perfume(134, "Born In Roma Coral Fantasy", "Valentino", "Frutal", "Aromatico", "https://www.fragrantica.es/perfume/Valentino/Valentino-Uomo-Born-In-Roma-Coral-Fantasy-71761.html"),
+    new Perfume(134, "Born In Roma Coral Fantasy", "Valentino", "Frutal", "Aromatico", "https://www.fragrantica.es/perfume/Valentino/Valentino-Uomo-Born-In-Roma-Coral-Fantasy-71761.html", "sold"),
     new Perfume(135, "Le Beau Le Parfum", "Jean Paul Gaultier", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/Jean-Paul-Gaultier/Le-Beau-Le-Parfum-72158.html"),
     new Perfume(136, "Le Beau Paradise Garden", "Jean Paul Gaultier", "Verde", "Dulce", "https://www.fragrantica.es/perfume/Jean-Paul-Gaultier/Le-Beau-Paradise-Garden-88836.html", "sold"),
     new Perfume(137, "Y EDP Intense", "Yves Saint Laurent", "Amaderado", "Aromatico", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Y-Eau-de-Parfum-Intense-79243.html"),
@@ -208,6 +208,7 @@ const perfumes =[
     new Perfume(191, "Invictus Victory Absolu", "Rabanne", "Ambarado", "Amaderado", "https://www.fragrantica.es/perfume/Rabanne/Invictus-Victory-Absolu-103462.html"),
     new Perfume(192, "Eros Najim", "Versace", "Calido especiado", "Citrico", "https://www.fragrantica.es/perfume/Versace/Eros-Najim-99116.html"),
     new Perfume(193, "Eros Eau De Parfum", "Versace", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Versace/Eros-Eau-de-Parfum-62762.html"),
+    new Perfume(194, "Invictus Aqua", "Rabanne", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Rabanne/Invictus-Aqua-2025-106576.html", "sold"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
