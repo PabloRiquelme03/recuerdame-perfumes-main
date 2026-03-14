@@ -186,6 +186,7 @@ const perfumes = [
     new Perfume(171, "Nolita", "Bond No. 9", "Mujer", "Floral", "Citrico", "https://www.fragrantica.es/perfume/Bond-No-9/Nolita-43635.html"),
     new Perfume(172, "Maldives in a Bottle Ylang Coco", "Kayali", "Mujer", "Dulce", "Aromatico", "https://www.fragrantica.com/perfume/Kayali-Fragrances/Maldives-in-a-Bottle-Ylang-Coco-20-Eau-de-Parfum-94206.html"),
     new Perfume(173, "Vayala", "Parfums de Marly", "Mujer", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Valaya-78574.html", "sold"),
+    new Perfume(174, "Quattro Pizzi", "Xerjoff", "Unisex", "Verde", "Dulce", "https://www.fragrantica.es/perfume/Xerjoff/Quattro-Pizzi-91640.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
