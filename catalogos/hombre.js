@@ -209,6 +209,9 @@ const perfumes =[
     new Perfume(192, "Eros Najim", "Versace", "Calido especiado", "Citrico", "https://www.fragrantica.es/perfume/Versace/Eros-Najim-99116.html"),
     new Perfume(193, "Eros Eau De Parfum", "Versace", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Versace/Eros-Eau-de-Parfum-62762.html"),
     new Perfume(194, "Invictus Aqua", "Rabanne", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Rabanne/Invictus-Aqua-2025-106576.html", "sold"),
+    new Perfume(195, "Ralph's Club New York", "Ralph Lauren", "Amaderado", "Aromatico", "https://www.fragrantica.es/perfume/Ralph-Lauren/Ralph-s-Club-New-York-108016.html"),
+    new Perfume(196, "Pi", "Givenchy", "Avainillado", "Ambarado", "https://www.fragrantica.es/perfume/Givenchy/Pi-39.html"),
+    new Perfume(197, "Aqva Pour Homme", "Bvlgari", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Bvlgari/Aqva-Pour-Homme-153.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {

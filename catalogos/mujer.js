@@ -158,6 +158,7 @@ const perfumes =[
     new Perfume(144, "Good Girl Blush Elixir", "Carolina Herrera", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Carolina-Herrera/Good-Girl-Blush-Elixir-Eau-de-Parfum-88937.html"),
     new Perfume(145, "L'Eau par Kenzo", "Kenzo", "Floral", "Verde", "https://www.fragrantica.es/perfume/Kenzo/L-Eau-par-Kenzo-78.html"),
     new Perfume(146, "Miss Dior Essence", "Dior", "Frutal", "Amaderado", "https://www.fragrantica.es/perfume/Dior/Miss-Dior-Essence-112972.html","sold"),
+    new Perfume(147, "Yellow diamonds", "Versace", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Versace/Yellow-Diamond-13064.html"),
 ]
 
 
