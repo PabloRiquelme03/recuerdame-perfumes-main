@@ -119,7 +119,7 @@ const perfumes = [
     new Perfume(104, "Eden Juicy Apple", "Kayali", "Unisex", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Kayali-Fragrances/Eden-Juicy-Apple-01-Eau-De-Parfum-70875.html"),
     new Perfume(105, "Pax", "Lorenzo Pazzaglia", "Unisex", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Lorenzo-Pazzaglia/Pax-69650.html"),
     new Perfume(106, "Symphony", "Louis Vuitton", "Unisex", "Citrico", "Fresco especiado", "https://www.fragrantica.es/perfume/Louis-Vuitton/Symphony-68357.html"),
-    new Perfume(107, "Vanilla 28", "Kayali", "Mujer", "Amabarado", "Avainillado", "https://www.fragrantica.es/perfume/Kayali-Fragrances/Vanilla-28-52616.html", "sold"),
+    new Perfume(107, "Vanilla 28", "Kayali", "Mujer", "Amabarado", "Avainillado", "https://www.fragrantica.es/perfume/Kayali-Fragrances/Vanilla-28-52616.html"),
     new Perfume(108, "Virgin Island Water", "Creed", "Unisex", "Citrico", "Dulce", "https://www.fragrantica.es/perfume/Creed/Virgin-Island-Water-899.html"),
     new Perfume(109, "Layton Exclusif", "Parfums de Marly", "Unisex", "Amaderado", "Calido especiado", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Layton-Exclusif-46633.html"),
     new Perfume(110, "Fucking Fabulous", "Tom Ford", "Unisex", "Aromatico", "Avainillado", "https://www.fragrantica.es/perfume/Tom-Ford/Fucking-Fabulous-46513.html"),
@@ -187,6 +187,11 @@ const perfumes = [
     new Perfume(172, "Maldives in a Bottle Ylang Coco", "Kayali", "Mujer", "Dulce", "Aromatico", "https://www.fragrantica.com/perfume/Kayali-Fragrances/Maldives-in-a-Bottle-Ylang-Coco-20-Eau-de-Parfum-94206.html"),
     new Perfume(173, "Vayala", "Parfums de Marly", "Mujer", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Valaya-78574.html"),
     new Perfume(174, "Quattro Pizzi", "Xerjoff", "Unisex", "Verde", "Dulce", "https://www.fragrantica.es/perfume/Xerjoff/Quattro-Pizzi-91640.html"),
+    new Perfume(175, "Spell On You", "Louis Vuitton", "Mujer", "Floral", "Frutal", "https://www.fragrantica.es/perfume/Louis-Vuitton/Spell-On-You-68960.html"),
+    new Perfume(176, "Valaya Exclusif", "Parfums de Marly", "Mujer", "Citrico", "Amaderado", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Valaya-Exclusif-102806.html"),    
+    new Perfume(177, "Delina Exclusif", "Parfums de Marly", "Mujer", "Floral", "Frutal", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Delina-Exclusif-50370.html"),  
+    new Perfume(178, "Vanille Havane", "Les Indemodables", "Unisex", "Dulce", "Tabaco", "https://www.fragrantica.es/perfume/Les-Indemodables/Vanille-Havane-63395.html"),  
+    new Perfume(179, "The Noir 29", "Le Labo", "Unisex", "Amaderado", "Fresco especiado", "https://www.fragrantica.es/perfume/Le-Labo/The-Noir-29-31872.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
