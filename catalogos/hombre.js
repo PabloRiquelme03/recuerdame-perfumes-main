@@ -37,7 +37,7 @@ const perfumes =[
     new Perfume(20, "Le Male", "Jean Paul Gaultier", "Aromatico", "Avainillado", "https://www.fragrantica.es/perfume/Jean-Paul-Gaultier/Le-Male-430.html"),
     new Perfume(21, "Tommy", "Tommy Hilfiger", "Fresco especiado", "Verde", "https://www.fragrantica.es/perfume/Tommy-Hilfiger/Tommy-6314.html"),
     new Perfume(22, "Pour Homme", "Kenzo", "Marino", "Aromatico", "https://www.fragrantica.es/perfume/Kenzo/Kenzo-pour-Homme-77.html"),
-    new Perfume(23, "Uomo Born In Roma Extradose", "Valentino", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Valentino/Born-in-Roma-Extradose-Uomo-101383.html"),
+    new Perfume(23, "Uomo Born In Roma Extradose", "Valentino", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Valentino/Born-in-Roma-Extradose-Uomo-101383.html", "sold"),
     new Perfume(24, "Stronger With You", "Giorgio Armani", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-45258.html"),
     new Perfume(25, "Agua Brava", "Antonio Puig", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Antonio-Puig/Agua-Brava-12673.html"),
     new Perfume(26, "Opium", "Yves Saint Laurent", "Fresco especiado", "Frutal", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Opium-Pour-Homme-562.html"),
@@ -208,7 +208,7 @@ const perfumes =[
     new Perfume(191, "Invictus Victory Absolu", "Rabanne", "Ambarado", "Amaderado", "https://www.fragrantica.es/perfume/Rabanne/Invictus-Victory-Absolu-103462.html"),
     new Perfume(192, "Eros Najim", "Versace", "Calido especiado", "Citrico", "https://www.fragrantica.es/perfume/Versace/Eros-Najim-99116.html"),
     new Perfume(193, "Eros Eau De Parfum", "Versace", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Versace/Eros-Eau-de-Parfum-62762.html"),
-    new Perfume(194, "Invictus Aqua", "Rabanne", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Rabanne/Invictus-Aqua-2025-106576.html", "sold"),
+    new Perfume(194, "Invictus Aqua", "Rabanne", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Rabanne/Invictus-Aqua-2025-106576.html"),
     new Perfume(195, "Pi", "Givenchy", "Avainillado", "Ambarado", "https://www.fragrantica.es/perfume/Givenchy/Pi-39.html"),
     new Perfume(196, "Aqva Pour Homme", "Bvlgari", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Bvlgari/Aqva-Pour-Homme-153.html"),
 ]

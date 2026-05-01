@@ -26,7 +26,7 @@ const perfumes =[
     new Perfume(12, "Organza", "Givenchy", "Floral blanco", "Ambarado", "https://www.fragrantica.es/perfume/Givenchy/Organza-4.html"),
     new Perfume(13, "212", "Carolina Herrera", "Floral blanco", "Citrico", "https://www.fragrantica.es/perfume/Carolina-Herrera/212-296.html"),
     new Perfume(14, "Noa", "Cacharel", "Floral", "Amaderado", "https://www.fragrantica.es/perfume/Cacharel/Noa-242.html"),
-    new Perfume(15, "Donna Born In Roma Extradose", "Valentino", "Avainillado", "Frutal", "https://www.fragrantica.es/perfume/Valentino/Born-in-Roma-Extradose-Donna-101384.html"),
+    new Perfume(15, "Donna Born In Roma Extradose", "Valentino", "Avainillado", "Frutal", "https://www.fragrantica.es/perfume/Valentino/Born-in-Roma-Extradose-Donna-101384.html", "sold"),
     new Perfume(16, "Opium", "Yves Saint Laurent", "Ambarado", "Calido especiado", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Opium-Eau-de-Parfum-2009-7399.html"),
     new Perfume(17, "Lou Lou", "Cacharel", "Atalcado", "Ambarado", "https://www.fragrantica.es/perfume/Cacharel/LouLou-1276.html"),
     new Perfume(18, "Eden", "Cacharel", "Floral blanco", "Verde", "https://www.fragrantica.es/perfume/Cacharel/Eden-244.html"),
@@ -160,6 +160,10 @@ const perfumes =[
     new Perfume(146, "Miss Dior Essence", "Dior", "Frutal", "Amaderado", "https://www.fragrantica.es/perfume/Dior/Miss-Dior-Essence-112972.html"),
     new Perfume(147, "Yellow diamonds", "Versace", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Versace/Yellow-Diamond-13064.html"),
     new Perfume(148, "Polo Sport Woman", "Ralph Lauren", "Amaderado", "Citrico", "https://www.fragrantica.es/perfume/Ralph-Lauren/Polo-Sport-Woman-895.html"),
+    new Perfume(149, "Miss Dior Blooming Bouquet", "Dior", "Floral", "Citrico", "https://www.fragrantica.es/perfume/Dior/Miss-Dior-Blooming-Bouquet-2023-78945.html"),
+    new Perfume(150, "Idôle Peach ‘N Roses", "Lancome", "Frutal", "Floral", "https://www.fragrantica.es/perfume/Lancome/Idole-Peach-N-Roses-120731.html"),
+    new Perfume(151, "Crush Cheirosa 40'", "Sol de Janeiro", "Frutal", "Avainillado", "https://www.fragrantica.es/perfume/Sol-de-Janeiro/Cheirosa-40-67527.html"),
+    new Perfume(151, "Crush Cheirosa 62'", "Sol de Janeiro", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Sol-de-Janeiro/Cheirosa-62-56062.html"),
 ]
 
 
