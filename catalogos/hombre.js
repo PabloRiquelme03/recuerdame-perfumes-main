@@ -211,6 +211,7 @@ const perfumes =[
     new Perfume(194, "Invictus Aqua", "Rabanne", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Rabanne/Invictus-Aqua-2025-106576.html"),
     new Perfume(195, "Pi", "Givenchy", "Avainillado", "Ambarado", "https://www.fragrantica.es/perfume/Givenchy/Pi-39.html"),
     new Perfume(196, "Aqva Pour Homme", "Bvlgari", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Bvlgari/Aqva-Pour-Homme-153.html"),
+    new Perfume(197, "H24", "Hermès", "Aromatico", "Floral", "https://www.fragrantica.es/perfume/Hermes/H24-65147.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {

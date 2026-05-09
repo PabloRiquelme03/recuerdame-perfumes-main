@@ -80,7 +80,7 @@ const perfumes = [
     new Perfume(65, "Millésime Impérial", "Creed", "Unisex", "Marino", "Citrico", "https://www.fragrantica.es/perfume/Creed/Millesime-Imperial-466.html"),
     new Perfume(66, "Bergamote 22", "Le Labo", "Unisex", "Citrico", "Aromático","https://www.fragrantica.es/perfume/Le-Labo/Bergamote-22-6327.html"),
     new Perfume(67, "Juniper Sling", "Penhaligon’s", "Unisex", "Aromático", "Fresco especiado", "https://www.fragrantica.es/perfume/Penhaligon-s/Juniper-Sling-13266.html"),
-    new Perfume(68, "Matcha Meditation", "Maison Martin Margiela", "Unisex", "Floral", "Verde", "https://www.fragrantica.es/perfume/Maison-Martin-Margiela/Matcha-Meditation-64805.html", "sold"),
+    new Perfume(68, "Matcha Meditation", "Maison Martin Margiela", "Unisex", "Floral", "Verde", "https://www.fragrantica.es/perfume/Maison-Martin-Margiela/Matcha-Meditation-64805.html"),
     new Perfume(69, "Under The Lemon Tree", "Maison Martin Margiela", "Unisex", "Citrico", "Verde", "https://www.fragrantica.es/perfume/Maison-Martin-Margiela/Under-The-Lemon-Tree-53379.html"),
     new Perfume(70, "Silver Mountain Water", "Creed", "Unisex", "Citrico", "Verde", "https://www.fragrantica.es/perfume/Creed/Silver-Mountain-Water-472.html"),
     new Perfume(71, "Bleecker Street", "Bond No. 9", "Unisex", "Frutal", "Aromático", "https://www.fragrantica.es/perfume/Bond-No-9/Bleecker-Street-1301.html"),
@@ -192,6 +192,9 @@ const perfumes = [
     new Perfume(177, "Delina Exclusif", "Parfums de Marly", "Mujer", "Floral", "Frutal", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Delina-Exclusif-50370.html"),  
     new Perfume(178, "Vanille Havane", "Les Indemodables", "Unisex", "Dulce", "Tabaco", "https://www.fragrantica.es/perfume/Les-Indemodables/Vanille-Havane-63395.html"),  
     new Perfume(179, "The Noir 29", "Le Labo", "Unisex", "Amaderado", "Fresco especiado", "https://www.fragrantica.es/perfume/Le-Labo/The-Noir-29-31872.html"),
+    new Perfume(180, "Patchouli 24", "Le Labo", "Unisex", "Cuero", "Amaderado", "https://www.fragrantica.es/perfume/Le-Labo/Patchouli-24-6332.html"),
+    new Perfume(181, "Ombré Leather Parfum", "Tom Ford", "Unisex", "Cuero", "Amaderado", "https://www.fragrantica.es/perfume/Tom-Ford/Ombre-Leather-Parfum-68716.html"),   
+    new Perfume(182, "Angels' Share Paradis", "Kilian", "Unisex", "Amaderado", "Dulce", "https://www.fragrantica.es/perfume/By-Kilian/Angels-Share-Paradis-101629.html"),   
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
