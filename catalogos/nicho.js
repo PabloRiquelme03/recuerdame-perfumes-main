@@ -59,7 +59,7 @@ const perfumes = [
     new Perfume(44, "Chocolate Greedy", "Montale", "Unisex", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Montale/Chocolate-Greedy-2186.html"),
     new Perfume(45, "Percival", "Parfums de Marly", "Unisex", "Ambarado", "Aromático", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Percival-51037.html"),
     new Perfume(46, "Office for Men", "Jeremy Fragrance", "Hombre", "Ambarado", "Citrico", "https://www.fragrantica.es/perfume/Fragrance-One/Office-For-Men-55166.html", "sold"),
-    new Perfume(47, "Hacivat", "Nishane", "Unisex", "Amaderado", "Citrico", "https://www.fragrantica.es/perfume/Nishane/Hacivat-44174.html"),
+    new Perfume(47, "Hacivat", "Nishane", "Unisex", "Amaderado", "Citrico", "https://www.fragrantica.es/perfume/Nishane/Hacivat-44174.html", "sold"),
     new Perfume(48, "Althair", "Parfums de Marly", "Hombre", "Dulce", "Avainillado", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Althair-84109.html"),
     new Perfume(49, "Costa Azzurra", "Tom Ford", "Unisex", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Tom-Ford/Costa-Azzurra-64617.html"),
     new Perfume(50, "Love Don’t Be Shy", "Kilian", "Mujer", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/By-Kilian/Love-Don-t-Be-Shy-4322.html"),
@@ -67,7 +67,7 @@ const perfumes = [
     new Perfume(52, "Vanilla Sex", "Tom Ford", "Unisex", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Tom-Ford/Vanilla-Sex-88588.html"),
     new Perfume(53, "Bianco Latte", "Giardini Di Toscana", "Unisex", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Giardini-Di-Toscana/Bianco-Latte-64757.html"),
     new Perfume(54, "Amore Caffé", "Mancera", "Unisex", "Dulce", "Avainillado", "https://www.fragrantica.es/perfume/Mancera/Amore-Caffe-87409.html", "sold"),
-    new Perfume(55, "Pegasus", "Parfums de Marly", "Hombre", "Avainillado", "Aromático", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Pegasus-16938.html"),
+    new Perfume(55, "Pegasus", "Parfums de Marly", "Hombre", "Avainillado", "Aromático", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Pegasus-16938.html", "sold"),
     new Perfume(56, "Ege", "Nishane", "Unisex", "Verde", "Fresco especiado", "https://www.fragrantica.es/perfume/Nishane/EGE-AIGAIO-64092.html"),
     new Perfume(57, "Bitter Peach", "Tom Ford", "Unisex", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Tom-Ford/Bitter-Peach-62707.html"),
     new Perfume(58, "Absolu Aventus", "Creed", "Hombre", "Citrico", "Fresco especiado", "https://www.fragrantica.es/perfume/Creed/Absolu-Aventus-84112.html"),
@@ -88,7 +88,7 @@ const perfumes = [
     new Perfume(73, "Megamare", "Orto Parisi", "Unisex", "Marino", "Amabarado", "https://www.fragrantica.es/perfume/Orto-Parisi/Megamare-53471.html"),
     new Perfume(74, "Side Effect", "Initio Parfums", "Unisex", "Calido especiado", "Tabaco", "https://www.fragrantica.es/perfume/Initio-Parfums-Prives/Side-Effect-42260.html"),
     new Perfume(75, "Vanilla Powder", "Matiere Premiere", "Unisex", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Matiere-Premiere/Vanilla-Powder-84933.html"),
-    new Perfume(76, "Cassiopea", "Tiziana Terenzi", "Unisex", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/Tiziana-Terenzi/Cassiopea-30624.html", "sold"),
+    new Perfume(76, "Cassiopea", "Tiziana Terenzi", "Unisex", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/Tiziana-Terenzi/Cassiopea-30624.html"),
     new Perfume(77, "Sunshine Woman", "Amouage", "Mujer", "Frutal", "Floral", "https://www.fragrantica.es/perfume/Amouage/Sunshine-Woman-28182.html"),
     new Perfume(78, "Yum Pistachio Gelatto", "Kayali", "Unisex", "Dulce", "Avainillado", "https://www.fragrantica.es/perfume/Kayali-Fragrances/Yum-Pistachio-Gelato-33-79846.html"),
     new Perfume(79, "Electric Cherry", "Tom Ford", "Unisex", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Tom-Ford/Electric-Cherry-78583.html", "sold"),
@@ -194,7 +194,8 @@ const perfumes = [
     new Perfume(179, "The Noir 29", "Le Labo", "Unisex", "Amaderado", "Fresco especiado", "https://www.fragrantica.es/perfume/Le-Labo/The-Noir-29-31872.html"),
     new Perfume(180, "Patchouli 24", "Le Labo", "Unisex", "Cuero", "Amaderado", "https://www.fragrantica.es/perfume/Le-Labo/Patchouli-24-6332.html"),
     new Perfume(181, "Ombré Leather Parfum", "Tom Ford", "Unisex", "Cuero", "Amaderado", "https://www.fragrantica.es/perfume/Tom-Ford/Ombre-Leather-Parfum-68716.html"),   
-    new Perfume(182, "Angels' Share Paradis", "Kilian", "Unisex", "Amaderado", "Dulce", "https://www.fragrantica.es/perfume/By-Kilian/Angels-Share-Paradis-101629.html"),   
+    new Perfume(182, "Angels' Share Paradis", "Kilian", "Unisex", "Amaderado", "Dulce", "https://www.fragrantica.es/perfume/By-Kilian/Angels-Share-Paradis-101629.html"), 
+    new Perfume(183, "Aventus Cologne", "Creed", "Hombre", "Citrico", "Amaderado", "https://www.fragrantica.es/perfume/Creed/Aventus-Cologne-51692.html"),   
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
