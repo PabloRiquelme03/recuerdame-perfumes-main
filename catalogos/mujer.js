@@ -166,6 +166,10 @@ const perfumes =[
     new Perfume(151, "Crush Cheirosa 62'", "Sol de Janeiro", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Sol-de-Janeiro/Cheirosa-62-56062.html"),
     new Perfume(152, "Very Good Girl Glam", "Carolina Herrera", "Dulce", "Floral", "https://www.fragrantica.es/perfume/Carolina-Herrera/Very-Good-Girl-Glam-72698.html"),
     new Perfume(153, "DKNY Red Delicious", "Donna Karan", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Donna-Karan/DKNY-Red-Delicious-499.html"),
+    new Perfume(154, "Flora Gorgeous Orchid", "Gucci", "Avainillado", "Floral", "https://www.fragrantica.es/perfume/Gucci/Flora-Gorgeous-Orchid-94979.html"),
+    new Perfume(155, "Chance Eau Splendide", "Chanel", "Frutal", "Floral", "https://www.fragrantica.es/perfume/Chanel/Chance-Eau-Splendide-104610.html"),
+    new Perfume(156, "Libre Berry Crush", "Yves Saint Laurent", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Libre-Berry-Crush-120531.html"),
+    new Perfume(157, "Ella Ella", "Cacharel", "Floral Blanco", "Avainillado", "https://www.fragrantica.es/perfume/Cacharel/Ella-Ella-120532.html"),
 ]
 
 

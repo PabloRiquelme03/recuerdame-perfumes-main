@@ -58,7 +58,7 @@ const perfumes = [
     new Perfume(43, "Renaissance", "Xerjoff", "Unisex", "Citrico", "Verde", "https://www.fragrantica.es/perfume/Xerjoff/XJ-1861-Renaissance-12126.html"),
     new Perfume(44, "Chocolate Greedy", "Montale", "Unisex", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Montale/Chocolate-Greedy-2186.html"),
     new Perfume(45, "Percival", "Parfums de Marly", "Unisex", "Ambarado", "Aromático", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Percival-51037.html"),
-    new Perfume(46, "Office for Men", "Jeremy Fragrance", "Hombre", "Ambarado", "Citrico", "https://www.fragrantica.es/perfume/Fragrance-One/Office-For-Men-55166.html", "sold"),
+    new Perfume(46, "Office for Men", "Jeremy Fragrance", "Hombre", "Ambarado", "Citrico", "https://www.fragrantica.es/perfume/Fragrance-One/Office-For-Men-55166.html"),
     new Perfume(47, "Hacivat", "Nishane", "Unisex", "Amaderado", "Citrico", "https://www.fragrantica.es/perfume/Nishane/Hacivat-44174.html", "sold"),
     new Perfume(48, "Althair", "Parfums de Marly", "Hombre", "Dulce", "Avainillado", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Althair-84109.html"),
     new Perfume(49, "Costa Azzurra", "Tom Ford", "Unisex", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Tom-Ford/Costa-Azzurra-64617.html"),
@@ -196,6 +196,7 @@ const perfumes = [
     new Perfume(181, "Ombré Leather Parfum", "Tom Ford", "Unisex", "Cuero", "Amaderado", "https://www.fragrantica.es/perfume/Tom-Ford/Ombre-Leather-Parfum-68716.html"),   
     new Perfume(182, "Angels' Share Paradis", "Kilian", "Unisex", "Amaderado", "Dulce", "https://www.fragrantica.es/perfume/By-Kilian/Angels-Share-Paradis-101629.html"), 
     new Perfume(183, "Aventus Cologne", "Creed", "Hombre", "Citrico", "Amaderado", "https://www.fragrantica.es/perfume/Creed/Aventus-Cologne-51692.html"),   
+    new Perfume(184, "Orphéon Eau de Parfum", "Diptyque", "Unisex", "Amaderado", "Aromatico", "https://www.fragrantica.es/perfume/Diptyque/Orpheon-Eau-de-Parfum-65738.html"),  
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
