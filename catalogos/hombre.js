@@ -212,8 +212,9 @@ const perfumes =[
     new Perfume(195, "Pi", "Givenchy", "Avainillado", "Ambarado", "https://www.fragrantica.es/perfume/Givenchy/Pi-39.html"),
     new Perfume(196, "Aqva Pour Homme", "Bvlgari", "Citrico", "Marino", "https://www.fragrantica.es/perfume/Bvlgari/Aqva-Pour-Homme-153.html"),
     new Perfume(197, "H24", "Hermès", "Aromatico", "Floral", "https://www.fragrantica.es/perfume/Hermes/H24-65147.html"),
-    new Perfume(198, "Stronger With You Powerfully", "Giorgio Armani", "Calido especiado", "Avainillado", "https://www.fragrantica.es/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Powerfully-123070.html"),
-    new Perfume(199, "MYSLF L’Absolu", "Yves Saint Laurent", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/MYSLF-L-Absolu-107428.html"),
+    new Perfume(198, "Le Sel d’Issey", "Issey Miyake", "Marino", "Ammaderado", "https://www.fragrantica.es/perfume/Issey-Miyake/Le-Sel-d-Issey-95642.html"),
+    new Perfume(199, "Stronger With You Powerfully", "Giorgio Armani", "Calido especiado", "Avainillado", "https://www.fragrantica.es/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Powerfully-123070.html"),
+    new Perfume(200, "MYSLF L’Absolu", "Yves Saint Laurent", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/MYSLF-L-Absolu-107428.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
