@@ -67,7 +67,7 @@ const perfumes = [
     new Perfume(52, "Vanilla Sex", "Tom Ford", "Unisex", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Tom-Ford/Vanilla-Sex-88588.html"),
     new Perfume(53, "Bianco Latte", "Giardini Di Toscana", "Unisex", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Giardini-Di-Toscana/Bianco-Latte-64757.html"),
     new Perfume(54, "Amore Caffé", "Mancera", "Unisex", "Dulce", "Avainillado", "https://www.fragrantica.es/perfume/Mancera/Amore-Caffe-87409.html", "sold"),
-    new Perfume(55, "Pegasus", "Parfums de Marly", "Hombre", "Avainillado", "Aromático", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Pegasus-16938.html", "sold"),
+    new Perfume(55, "Pegasus", "Parfums de Marly", "Hombre", "Avainillado", "Aromático", "https://www.fragrantica.es/perfume/Parfums-de-Marly/Pegasus-16938.html"),
     new Perfume(56, "Ege", "Nishane", "Unisex", "Verde", "Fresco especiado", "https://www.fragrantica.es/perfume/Nishane/EGE-AIGAIO-64092.html"),
     new Perfume(57, "Bitter Peach", "Tom Ford", "Unisex", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Tom-Ford/Bitter-Peach-62707.html"),
     new Perfume(58, "Absolu Aventus", "Creed", "Hombre", "Citrico", "Fresco especiado", "https://www.fragrantica.es/perfume/Creed/Absolu-Aventus-84112.html"),
@@ -130,7 +130,7 @@ const perfumes = [
     new Perfume(115, "Torino 21", "Xerjoff", "Unisex", "Aromatico", "Fresco especiado", "https://www.fragrantica.es/perfume/Xerjoff/Torino21-70424.html"),
     new Perfume(116, "Gris Charnel", "BDK Parfums", "Unisex", "Amaderado", "Calido especiado", "https://www.fragrantica.es/perfume/BDK-Parfums/Gris-Charnel-57038.html"),
     new Perfume(117, "Tuscan Leather", "Tom Ford", "Unisex", "Aromatico", "Afrutado", "https://www.fragrantica.es/perfume/Tom-Ford/Tuscan-Leather-1849.html"),
-    new Perfume(118, "Afternoon Swim", "Louis Vuitton", "Unisex", "Citrico", "Fresco especiado", "https://www.fragrantica.es/perfume/Louis-Vuitton/Afternoon-Swim-53947.html", "sold"),
+    new Perfume(118, "Afternoon Swim", "Louis Vuitton", "Unisex", "Citrico", "Fresco especiado", "https://www.fragrantica.es/perfume/Louis-Vuitton/Afternoon-Swim-53947.html"),
     new Perfume(119, "Coffee Break", "Maison Martin Margiela", "Unisex", "Avainillado", "Calido especiado", "https://www.fragrantica.es/perfume/Maison-Martin-Margiela/Coffee-Break-55926.html"),
     new Perfume(120, "Erba Gold", "Xerjoff", "Unisex", "Citrico", "Afrutado", "https://www.fragrantica.es/perfume/Xerjoff/Erba-Gold-76683.html"),
     new Perfume(121, "Noir Extreme", "Tom Ford", "Hombre", "Calido especiado", "Dulce", "https://www.fragrantica.com/perfume/Tom-Ford/Noir-Extreme-29675.html"),
@@ -197,6 +197,7 @@ const perfumes = [
     new Perfume(182, "Angels' Share Paradis", "Kilian", "Unisex", "Amaderado", "Dulce", "https://www.fragrantica.es/perfume/By-Kilian/Angels-Share-Paradis-101629.html"), 
     new Perfume(183, "Aventus Cologne", "Creed", "Hombre", "Citrico", "Amaderado", "https://www.fragrantica.es/perfume/Creed/Aventus-Cologne-51692.html"),   
     new Perfume(184, "Orphéon Eau de Parfum", "Diptyque", "Unisex", "Amaderado", "Aromatico", "https://www.fragrantica.es/perfume/Diptyque/Orpheon-Eau-de-Parfum-65738.html"),  
+    new Perfume(185, "Astaral", "Xerjoff", "Unisex", "Ambarado", "Amaderado", "https://www.fragrantica.es/perfume/Xerjoff/Astaral-80265.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
