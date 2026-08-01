@@ -215,6 +215,8 @@ const perfumes =[
     new Perfume(198, "Le Sel d’Issey", "Issey Miyake", "Marino", "Ammaderado", "https://www.fragrantica.es/perfume/Issey-Miyake/Le-Sel-d-Issey-95642.html"),
     new Perfume(199, "Stronger With You Powerfully", "Giorgio Armani", "Calido especiado", "Avainillado", "https://www.fragrantica.es/perfume/Giorgio-Armani/Emporio-Armani-Stronger-With-You-Powerfully-123070.html"),
     new Perfume(200, "MYSLF L’Absolu", "Yves Saint Laurent", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/MYSLF-L-Absolu-107428.html"),
+    new Perfume(201, "King", "Bharara", "Citrico", "Frutal", "https://www.fragrantica.es/perfume/Bharara/King-74184.html"),
+    new Perfume(202, "Romance", "Ralph Lauren", "Aromatico", "Amaderado", "https://www.fragrantica.es/perfume/Ralph-Lauren/Romance-for-Men-2556.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
