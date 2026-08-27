@@ -157,13 +157,13 @@ const perfumes =[
     new Perfume(143, "Coral Fantasy", "Valentino", "Frutal", "Citrico", "https://www.fragrantica.es/perfume/Valentino/Valentino-Donna-Born-In-Roma-Coral-Fantasy-71760.html"),
     new Perfume(144, "Good Girl Blush Elixir", "Carolina Herrera", "Avainillado", "Amaderado", "https://www.fragrantica.es/perfume/Carolina-Herrera/Good-Girl-Blush-Elixir-Eau-de-Parfum-88937.html"),
     new Perfume(145, "L'Eau par Kenzo", "Kenzo", "Floral", "Verde", "https://www.fragrantica.es/perfume/Kenzo/L-Eau-par-Kenzo-78.html"),
-    new Perfume(146, "Miss Dior Essence", "Dior", "Frutal", "Amaderado", "https://www.fragrantica.es/perfume/Dior/Miss-Dior-Essence-112972.html", "sold"),
+    new Perfume(146, "Miss Dior Essence", "Dior", "Frutal", "Amaderado", "https://www.fragrantica.es/perfume/Dior/Miss-Dior-Essence-112972.html"),
     new Perfume(147, "Yellow diamonds", "Versace", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Versace/Yellow-Diamond-13064.html"),
     new Perfume(148, "Polo Sport Woman", "Ralph Lauren", "Amaderado", "Citrico", "https://www.fragrantica.es/perfume/Ralph-Lauren/Polo-Sport-Woman-895.html"),
     new Perfume(149, "Miss Dior Blooming Bouquet", "Dior", "Floral", "Citrico", "https://www.fragrantica.es/perfume/Dior/Miss-Dior-Blooming-Bouquet-2023-78945.html"),
     new Perfume(150, "Idôle Peach ‘N Roses", "Lancome", "Frutal", "Floral", "https://www.fragrantica.es/perfume/Lancome/Idole-Peach-N-Roses-120731.html"),
     new Perfume(151, "Crush Cheirosa 40'", "Sol de Janeiro", "Frutal", "Avainillado", "https://www.fragrantica.es/perfume/Sol-de-Janeiro/Cheirosa-40-67527.html"),
-    new Perfume(151, "Crush Cheirosa 62'", "Sol de Janeiro", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Sol-de-Janeiro/Cheirosa-62-56062.html"),
+    new Perfume(151, "Crush Cheirosa 39'", "Sol de Janeiro", "Dulce", "Avainillado", "https://www.fragrantica.es/perfume/Sol-de-Janeiro/Cheirosa-39-56681.html"),
     new Perfume(152, "Very Good Girl Glam", "Carolina Herrera", "Dulce", "Floral", "https://www.fragrantica.es/perfume/Carolina-Herrera/Very-Good-Girl-Glam-72698.html"),
     new Perfume(153, "DKNY Red Delicious", "Donna Karan", "Frutal", "Dulce", "https://www.fragrantica.es/perfume/Donna-Karan/DKNY-Red-Delicious-499.html"),
     new Perfume(154, "Flora Gorgeous Orchid", "Gucci", "Avainillado", "Floral", "https://www.fragrantica.es/perfume/Gucci/Flora-Gorgeous-Orchid-94979.html"),
@@ -171,6 +171,7 @@ const perfumes =[
     new Perfume(156, "Libre Berry Crush", "Yves Saint Laurent", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/Libre-Berry-Crush-120531.html"),
     new Perfume(157, "Ella Ella", "Cacharel", "Floral Blanco", "Avainillado", "https://www.fragrantica.es/perfume/Cacharel/Ella-Ella-120532.html"),
     new Perfume(158, "Amarige", "Givenchy", "Floral Blanco", "Dulce", "https://www.fragrantica.es/perfume/Givenchy/Amarige-3.html"),
+    new Perfume(159, "Ari", "Ariana Grande", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/Ariana-Grande/Ari-31661.html"),
 ]
 
 
