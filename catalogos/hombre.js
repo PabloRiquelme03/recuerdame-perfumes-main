@@ -217,6 +217,8 @@ const perfumes =[
     new Perfume(200, "MYSLF L’Absolu", "Yves Saint Laurent", "Citrico", "Floral", "https://www.fragrantica.es/perfume/Yves-Saint-Laurent/MYSLF-L-Absolu-107428.html"),
     new Perfume(201, "King", "Bharara", "Citrico", "Frutal", "https://www.fragrantica.es/perfume/Bharara/King-74184.html"),
     new Perfume(202, "Romance", "Ralph Lauren", "Aromatico", "Amaderado", "https://www.fragrantica.es/perfume/Ralph-Lauren/Romance-for-Men-2556.html"),
+    new Perfume(203, "One Million Oud", "Rabanne", "Amaderado", "Fresco especiado", "https://www.fragrantica.es/perfume/Rabanne/1-Million-Golden-Oud-84554.html"),  
+    new Perfume(204, "Boss Bottled Beyond", "Hugo Boss", "Fresco especiado", "Amaderado", "https://www.fragrantica.es/perfume/Hugo-Boss/Boss-Bottled-Beyond-106404.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
