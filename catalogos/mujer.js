@@ -172,6 +172,8 @@ const perfumes =[
     new Perfume(158, "Amarige", "Givenchy", "Floral Blanco", "Dulce", "https://www.fragrantica.es/perfume/Givenchy/Amarige-3.html"),
     new Perfume(159, "Ari", "Ariana Grande", "Dulce", "Frutal", "https://www.fragrantica.es/perfume/Ariana-Grande/Ari-31661.html"),
     new Perfume(160, "Crush Cheirosa 39'", "Sol de Janeiro", "Dulce", "Avainillado", "https://www.fragrantica.es/perfume/Sol-de-Janeiro/Cheirosa-39-56681.html"),
+    new Perfume(161, "Olympéa Parfum", "Rabanne", "Floral blanco", "Avainillado", "https://www.fragrantica.es/perfume/Rabanne/Olympea-Parfum-90432.html"),
+    new Perfume(162, "Boss The Scent For Her", "Hugo Boss", "Frutal", "Floral", "https://www.fragrantica.es/perfume/Hugo-Boss/Boss-The-Scent-For-Her-38998.html"),
 
 ]
 
