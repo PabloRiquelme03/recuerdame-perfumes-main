@@ -198,6 +198,8 @@ const perfumes = [
     new Perfume(183, "Aventus Cologne", "Creed", "Hombre", "Citrico", "Amaderado", "https://www.fragrantica.es/perfume/Creed/Aventus-Cologne-51692.html"),   
     new Perfume(184, "Orphéon Eau de Parfum", "Diptyque", "Unisex", "Amaderado", "Aromatico", "https://www.fragrantica.es/perfume/Diptyque/Orpheon-Eau-de-Parfum-65738.html"),  
     new Perfume(185, "Astaral", "Xerjoff", "Unisex", "Ambarado", "Amaderado", "https://www.fragrantica.es/perfume/Xerjoff/Astaral-80265.html"),
+    new Perfume(186, "Chasing Sunsets", "Maison Martin Margiela", "Unisex", "Frutal", "Amaderado", "https://www.fragrantica.es/perfume/Maison-Martin-Margiela/Chasing-Sunsets-124286.html"),
+    new Perfume(187, "Ingenious Ginger", "Goldfield & Banks Australia", "Unisex", "Citrico", "Fresco especiado", "https://www.fragrantica.es/perfume/Goldfield-Banks-Australia/Ingenious-Ginger-81895.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
