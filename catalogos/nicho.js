@@ -200,6 +200,7 @@ const perfumes = [
     new Perfume(185, "Astaral", "Xerjoff", "Unisex", "Ambarado", "Amaderado", "https://www.fragrantica.es/perfume/Xerjoff/Astaral-80265.html"),
     new Perfume(186, "Chasing Sunsets", "Maison Martin Margiela", "Unisex", "Frutal", "Amaderado", "https://www.fragrantica.es/perfume/Maison-Martin-Margiela/Chasing-Sunsets-124286.html"),
     new Perfume(187, "Ingenious Ginger", "Goldfield & Banks Australia", "Unisex", "Citrico", "Fresco especiado", "https://www.fragrantica.es/perfume/Goldfield-Banks-Australia/Ingenious-Ginger-81895.html"),
+    new Perfume(188, "Van Py Rhum", "Lorenzo Pazzaglia", "Unisex", "Avainillado", "Dulce", "https://www.fragrantica.es/perfume/Lorenzo-Pazzaglia/Van-Py-Rhum-74243.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
