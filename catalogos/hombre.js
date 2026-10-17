@@ -220,6 +220,7 @@ const perfumes =[
     new Perfume(203, "One Million Oud", "Rabanne", "Amaderado", "Fresco especiado", "https://www.fragrantica.es/perfume/Rabanne/1-Million-Golden-Oud-84554.html"),  
     new Perfume(204, "Boss Bottled Beyond", "Hugo Boss", "Fresco especiado", "Amaderado", "https://www.fragrantica.es/perfume/Hugo-Boss/Boss-Bottled-Beyond-106404.html"),
     new Perfume(205, "Light Blue Eau Intense Pour Homme", "Dolce & Gabbana", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Dolce-Gabbana/Light-Blue-Eau-Intense-Pour-Homme-44035.html"),
+    new Perfume(206, "Allure Homme Sport Cologne", "Chanel", "Citrico", "Aromatico", "https://www.fragrantica.es/perfume/Chanel/Allure-Homme-Sport-Cologne-1004.html"),
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
